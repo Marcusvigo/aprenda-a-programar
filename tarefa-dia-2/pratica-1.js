@@ -5,4 +5,5 @@ let idade = 19
 let cidade = "Tokyo"
 
 
+console.log(nome, email, profissao, idade)
 
