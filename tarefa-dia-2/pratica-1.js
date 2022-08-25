@@ -1,6 +1,8 @@
-console.log("Marcus")
-console.log("marcusvigo06@hotmsil.com")
-console.log("estudante")
-var idade = 19
-console.log("Tokyo")
+let nome = "Marcus"
+let email = "marcusvigo06@hotmail.com"
+let profissao = "estudante"
+let idade = 19
+let cidade = "Tokyo"
+
+
 
